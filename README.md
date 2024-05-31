@@ -19,7 +19,7 @@ Nesse projeto foram utilizados as seguintes tecnologias:
  
 ## Deploy
 
-<p>O deploy do projeto pode ser visualizado através do link: <a href="">Structboost</a></p>
+<p>O deploy do projeto pode ser visualizado através do link: <a href="https://projectstructboost.vercel.app/">Structboost</a></p>
 
 ## Contato
 
